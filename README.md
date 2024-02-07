@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React & Node.js**
 
-- 📫 How to reach me **vojtechlevi1@gmail.com**
-
 - ⚡ Fun fact **Beyond the commits and branches, you'll find me in the virtual realms, leveling up and defeating digital foes.**
 
 <h3 align="left">Connect with me:</h3>
