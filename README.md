@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Levi
+ 👋 Hi there, I'm Levi
 </h1>
 
 - 🔭 I’m currently studying webdevelopment
